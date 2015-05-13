@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH405: Theories of Personality"
+course_description: "A study of the development of personality, the effects of personality on important outcomes, and attempts to make beneficial changes to maladaptive personality characteristics."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: Saylor Foundation's PSYCH405 Final Exam**
     Link: The Saylor Foundation's [PSYCH405 Final

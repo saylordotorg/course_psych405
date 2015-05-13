@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH405: Theories of Personality"
+course_description: "A study of the development of personality, the effects of personality on important outcomes, and attempts to make beneficial changes to maladaptive personality characteristics."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to Personality Psychology** <span
 id="1"></span> 
 *Personality theories and processes can be defined and conceptualized

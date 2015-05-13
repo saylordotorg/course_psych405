@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH405: Theories of Personality"
+course_description: "A study of the development of personality, the effects of personality on important outcomes, and attempts to make beneficial changes to maladaptive personality characteristics."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Trait Perspective** <span id="4"></span> 
 *In the prior units, you have been exposed to theorists whose main
 concern was with the development of personality and therapeutic

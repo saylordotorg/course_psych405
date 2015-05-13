@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH405: Theories of Personality"
+course_description: "A study of the development of personality, the effects of personality on important outcomes, and attempts to make beneficial changes to maladaptive personality characteristics."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Evolutionary and Behavioral Genetic Perspectives of
 Personality** <span id="5"></span> 
 *We will now examine different evolutionary and behavioral genetic

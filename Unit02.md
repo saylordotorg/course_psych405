@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH405: Theories of Personality"
+course_description: "A study of the development of personality, the effects of personality on important outcomes, and attempts to make beneficial changes to maladaptive personality characteristics."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Clinical Perspective of Personality Psychology:
 Psychodynamic and Humanistic Perspectives** <span id="2"></span> 
 *As you have learned from your readings in unit 1, a core project of

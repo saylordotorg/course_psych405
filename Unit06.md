@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH405: Theories of Personality"
+course_description: "A study of the development of personality, the effects of personality on important outcomes, and attempts to make beneficial changes to maladaptive personality characteristics."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Social-Cognitive and Emotional Factors of Personality** <span
 id="6"></span> 
 *Because our cognitive structures relay important information from our
