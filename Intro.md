@@ -135,14 +135,12 @@ sit down with your calendar and decide to progress through/complete
 subunit 1.1 (a total of 6 hours) on Monday/Tuesday night; subunit 1.2 (a
 total of 4 hours) on Wednesday/Thursday night; etc.
 
-### Preliminary Information
+**Table of Contents:** You can find the course's units at the links below.
 
--   **Alternative Resources**
-    -   **Lecture: Missing Resource Replacements**
-        The Saylor Foundation does not yet have materials for this
-        portion of the course. If you are interested in contributing
-        your content to fill this gap or aware of a resource that could
-        be used here, please submit it here.
-
-        [Submit Materials](http://www.saylor.org/contribute/)
-
+- [Unit 1](https://legacy.saylor.org/psych405/Unit01/)
+- [Unit 2](https://legacy.saylor.org/psych405/Unit02/)
+- [Unit 3](https://legacy.saylor.org/psych405/Unit03/)
+- [Unit 4](https://legacy.saylor.org/psych405/Unit04/)
+- [Unit 5](https://legacy.saylor.org/psych405/Unit05/)
+- [Unit 6](https://legacy.saylor.org/psych405/Unit06/)
+- [Unit 7](https://legacy.saylor.org/psych405/Unit07/)
