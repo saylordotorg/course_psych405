@@ -90,7 +90,7 @@ id="5.3"></span> 
     7”**
     Link: Advancing Sciences Serving Society and the Hastings Center:
     Catherine Baker’s *Behavioral Genetics: *“[Chapters 1, 6, and
-    7](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH101Sec2.pdf)"
+    7](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/PSYCH101Sec2.pdf)"
     (PDF)  
         
      Instructions: Please click on the hyperlinks for each chapter on
